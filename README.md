@@ -1,4 +1,4 @@
-# Uno-arm ![download](https://github.com/90x-Development/Uno-arm/assets/64578167/09ec778c-71f2-4f6f-8fe9-1b4077eb98a1)
+# Uno-arm <img src="https://github.com/90x-Development/Uno-arm/assets/64578167/09ec778c-71f2-4f6f-8fe9-1b4077eb98a1" alt="Logo" width="auto" height="20px" />
 
 
 Python-controlled Robotic Arm with OpenCV, Arduino Uno and PCA9638
