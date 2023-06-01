@@ -17,7 +17,7 @@ You'll also need to install the following software:
 - OpenCV: Used for object detection and angle calculation. - PySerial: To establish serial communication between Python and Arduino.
 - (Arduino ) Install adfruit Module for PCA9685 PWM
 
-###Setup
+# Setup
 
 1. Connect the Arduino Uno to the PCA9638 servo motor controller.
 2. Connect the servo motor to the PCA9638 controller.
@@ -25,7 +25,7 @@ You'll also need to install the following software:
 4. Install OpenCV
 
 
-#####Usage
+# Usage
 
 Connect the Arduino Uno to your computer.
 Upload the Arduino sketch provided in the repository to the Arduino Uno.
