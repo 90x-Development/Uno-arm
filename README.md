@@ -1,10 +1,6 @@
 # Uno-arm
 Python-controlled Robotic Arm with OpenCV, Arduino Uno and PCA9638
-# Made with
 
-![Logo](logo/arduni.png)
-![Logo](logo/cv.png)
-![Logo](logo/py.png)
 
 # Python-controlled Arm with Arduino Uno and PCA9638
 
@@ -37,8 +33,17 @@ Run the Python script to start the robotic arm.
 
 ```
 bash python main.py
-
 ```
+# Config 
+
+1. Go to code/control.py and config port
+2. When the code is running config the picture to see green block only using track bars 
+
+
+![arduni](https://github.com/90x-Development/Uno-arm/assets/64578167/9f0b377e-79bd-476f-adef-49b90e877d66)
+![cv](https://github.com/90x-Development/Uno-arm/assets/64578167/4f1b6673-cf88-4ee5-931c-ea8c8070d83f)
+![py](https://github.com/90x-Development/Uno-arm/assets/64578167/abb77e9f-ca70-42f6-acc7-691cb69c22e0)
+
 The webcam feed will open, and the Python program will start detecting the green block.
 The servo motor will move the arm to track the direction of the green block.
 #License
