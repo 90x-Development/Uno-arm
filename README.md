@@ -16,16 +16,25 @@ You'll also need to install the following software:
 - Python: Version 3.9.
 - OpenCV: Used for object detection and angle calculation. - PySerial: To establish serial communication between Python and Arduino.
 - (Arduino ) Install adfruit Module for PCA9685 PWM
+
 ##Setup
+
 1. Connect the Arduino Uno to the PCA9638 servo motor controller.
 2. Connect the servo motor to the PCA9638 controller.
 3. Connect the webcam to your computer.
 4. Install OpenCV
-#Usage
+
+
+##Usage
+
 Connect the Arduino Uno to your computer.
 Upload the Arduino sketch provided in the repository to the Arduino Uno.
 Run the Python script to start the robotic arm.
+
+```bash
 bash python main.py
+
+```
 The webcam feed will open, and the Python program will start detecting the green block.
 The servo motor will move the arm to track the direction of the green block.
 #License
