@@ -2,7 +2,7 @@
 Python-controlled Robotic Arm with OpenCV, Arduino Uno and PCA9638
 # Made with
 
-![Logo](logo/arduino.png)
+![Logo](logo/arduni.png)
 ![Logo](logo/cv.png)
 ![Logo](logo/py.png)
 
